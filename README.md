@@ -7,4 +7,4 @@
   1.1.1 Loading Data
   1.1.2 Using the computeCost funtion to compute the cost J
   1.1.3 Using the gradientDescent function to compute parameters theta
-  1.1.4 Plotting Linear Fit as seen in ![Figure 1](https://github.io/Sidhved/Machine-Learning/1.-Linear-Regression/Figure-1.PNG?raw=true)
+  1.1.4 Plotting Linear Fit as seen in ![Figure 1](https://github.io/Sidhved/Machine-Learning/1.-Linear-Regression/Figure-1.png?raw=true "Figure 1")
