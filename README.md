@@ -17,5 +17,6 @@
     * Loading Data
     * Using the featureNormalization fuunction to normalize the parameters
     * Using the gradientDescentMultiVar function to compute parameter theta with alpha = 0.000000001
-    * Visualising the convergence graph: ![Figure 4](https://github.com/Sidhved/Machine-Learning/blob/main/1.%20Linear%20Regression/Figure%204.PNG)
+    * Visualising the convergence graph: 
+    ![Figure 4](https://github.com/Sidhved/Machine-Learning/blob/main/1.%20Linear%20Regression/Figure%204.PNG)
     * Solving by normalEquation function to calculate parameter theta
